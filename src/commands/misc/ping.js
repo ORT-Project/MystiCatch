@@ -1,5 +1,5 @@
 module.exports = {
-    deleted: true, // Supprime la commande pour les utilisateurs
+    deleted: false, // Supprime la commande pour les utilisateurs
     name: 'ping', // Nom de la commande exécutée
     description: 'Pong!', // Description de la commande
 
