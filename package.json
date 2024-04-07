@@ -1,0 +1,25 @@
+{
+  "name": "discord-school-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "deploy": "node src/handlers/deploy-commands.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Discord-School-JS/Discord-School-JS.git"
+  },
+  "author": "BluedyRimuru & Neleoko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Discord-School-JS/Discord-School-JS/issues"
+  },
+  "homepage": "https://github.com/Discord-School-JS/Discord-School-JS#readme",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^14.14.1"
+  }
+}
